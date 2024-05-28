@@ -24,8 +24,7 @@ jesusqg42</a></h1>
 
 <p align="center">So what are you waiting for, dive into the exciting world of my GitHub and discover the wonders of technology today! 🎉</p>
 
-<h2 align="center">👨🏻‍💻 About Me</h2>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<h2 align="center">👨🏻‍💻 About Me</h2><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ✔ Callme: ***Chuito*** or ***TeamWorker*** 😊 <br>
 ✔ I am currently Developing a **Virtual Machine** as a 2nd Circle Project for campus42. <br>
