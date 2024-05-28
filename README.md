@@ -44,3 +44,8 @@ jesusqg42</a></h1>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jesusqg42&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align=center>
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+    <p>Loading</p>
+</div>
