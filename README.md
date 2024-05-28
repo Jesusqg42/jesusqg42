@@ -16,6 +16,16 @@ jesusqg42</a></h1>
   </a>
 </p>
 
+<p>Recientemente, he comenzado a sumergirme en el poderoso lenguaje de programación C 💡. A pesar de ser relativamente nuevo en este lenguaje, ya he logrado hacer contribuciones significativas. C, con su eficiencia y flexibilidad, me ha permitido trabajar en proyectos de bajo nivel y entender mejor cómo funcionan las computadoras a nivel de hardware 🖥️.
+
+Además, tengo un dominio sólido de JavaScript 🌐, un lenguaje esencial para el desarrollo web. Mis proyectos de JavaScript en GitHub demuestran mi habilidad para crear aplicaciones web interactivas y dinámicas. Desde la manipulación del DOM hasta la gestión del estado en aplicaciones de una sola página, cada repositorio es un testimonio de mi habilidad en JavaScript.
+
+Pero donde realmente destaco es en el uso de Bash 🐚. Bash, el intérprete de comandos de Unix, es una herramienta poderosa para la automatización de tareas y la administración de sistemas. Mis scripts de Bash en GitHub muestran mi habilidad para escribir scripts eficientes y robustos que pueden automatizar tareas complejas y repetitivas.
+
+Te invito a explorar mi GitHub 🕵️‍♂️, a sumergirte en el fascinante mundo de la tecnología y a descubrir cómo mis proyectos están ayudando a dar forma al futuro. Con cada visita, te garantizo que te llevarás algo nuevo, algo emocionante, algo que te inspirará a ver el mundo de la tecnología desde una nueva perspectiva.
+
+Así que, ¿a qué estás esperando? ¡Adéntrate en el emocionante mundo de mi GitHub y descubre las maravillas de la tecnología hoy mismo! 🎉</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
