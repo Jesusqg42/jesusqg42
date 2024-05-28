@@ -23,7 +23,7 @@ jesusqg42</a></h1>
 <p align="center">All this combined with the use of Bash 🐚. Bash, the Unix command interpreter, is a powerful tool for task automation and system administration. My Bash scripts on GitHub showcase my ability to write efficient and robust scripts that can automate complex and repetitive tasks.</p>
 
 <p align="center">So what are you waiting for, dive into the exciting world of my GitHub and discover the wonders of technology today! 🎉</p>
-
+<br>
 <h2 align="center">👨🏻‍💻 About Me</h2><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ✔ Callme: ***Chuito*** or ***TeamWorker*** 😊 <br>
