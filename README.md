@@ -34,7 +34,7 @@ jesusqg42</a></h1>
 ✔ Fun fact : **I always try to learn something new** and then sleep until it is stored in the brain 😎.
 <br> <br>
 <h1 align="center"> 🏆 GitHub Trophies</h1>
-![](https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+<div> <img src="https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4"></div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
