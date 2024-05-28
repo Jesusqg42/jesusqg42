@@ -7,10 +7,8 @@ jesusqg42</a></h1>
        alt="snake" /></a>
 </div
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">💻 Tech Stack 👨🏻‍💻</h2></summary>
-  </ul>
+<div>
+    <h2 style="display: inline-block" align="center">💻 Tech Stack 👨🏻‍💻</h2>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
