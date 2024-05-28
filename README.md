@@ -26,12 +26,12 @@ jesusqg42</a></h1>
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
-<p>✔ Callme: ***Chuito*** or ***TeamWorker*** 😊</p>
-<p>✔ I am currently Developing a Virtual Machine as a 2nd Circle Project for campus42.</p>
-✔ I am currently learning about deep learning🥰.
-✔ I am looking to collaborate with any Open - Source on Frontend and Backend Projects.
-✔ Ask me anything you want, If I am alive I will respond in a matter of seconds 😉.
-✔ Fun fact : I always try to learn something new and then sleep until it is stored in the brain 😎.
+✔ Callme: ***Chuito*** or ***TeamWorker*** 😊 <br>
+✔ I am currently Developing a **Virtual Machine** as a 2nd Circle Project for campus42. <br>
+✔ I am currently learning about **deep learning**🥰. <br>
+✔ I am looking to collaborate with any Open - Source on **Frontend and Backend** Projects. <br>
+✔ Ask me anything you want, If I am alive I will respond in a matter of seconds 😉. <br>
+✔ Fun fact : **I always try to learn something new** and then sleep until it is stored in the brain 😎.
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
