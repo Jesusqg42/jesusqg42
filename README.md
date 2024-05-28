@@ -26,7 +26,7 @@ jesusqg42</a></h1>
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
-✔ Callme: Chuito or TeamWorker 😊
+✔ Callme: ***Chuito*** or ***TeamWorker*** 😊
 ✔ I am currently Developing a Virtual Machine as a 2nd Circle Project for campus42.
 ✔ I am currently learning about deep learning🥰.
 ✔ I am looking to collaborate with any Open - Source on Frontend and Backend Projects.
