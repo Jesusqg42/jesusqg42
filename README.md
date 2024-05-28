@@ -33,9 +33,10 @@ jesusqg42</a></h1>
 ✔ Ask me anything you want, If I am alive I will respond in a matter of seconds 😉. <br>
 ✔ Fun fact : **I always try to learn something new** and then sleep until it is stored in the brain 😎.
 <br> <br> <br>
+
 <div align="center">
-   <h2> 🏆 GitHub Trophies</h2>
-   <figure> <img src="https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4"></div>
+  <h2>🔝 Top Contributed Repo</h2>
+  <img src="https://github-contributor-stats.vercel.app/api?username=jesusqg42&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
 </div>
 
 <div align="center">
@@ -44,10 +45,11 @@ jesusqg42</a></h1>
 </div>
 
 <div align="center">
-  <h2>🔝 Top Contributed Repo</h2>
-  <img src="https://github-contributor-stats.vercel.app/api?username=jesusqg42&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
+   <h2> 🏆 GitHub Trophies</h2>
+   <figure> <img src="https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4"></div>
 </div>
-<br><br>
+
+
 <div align=center>
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
     <p>Loading</p>
