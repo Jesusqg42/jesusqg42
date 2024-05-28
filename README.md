@@ -16,13 +16,13 @@ jesusqg42</a></h1>
   </a>
 </p>
 
-<p align="center">Recientemente, he comenzado a sumergirme en el poderoso lenguaje de programación C 💡. A pesar de ser relativamente nuevo en este lenguaje, ya he logrado hacer contribuciones significativas. C, con su eficiencia y flexibilidad, me ha permitido trabajar en proyectos de bajo nivel y entender mejor cómo funcionan las computadoras a nivel de hardware 🖥️.
+<p align="center">Recientemente, he comenzado a sumergirme en el poderoso lenguaje de programación C 💡. A pesar de ser relativamente nuevo en este lenguaje, ya he logrado hacer contribuciones significativas. C, con su eficiencia y flexibilidad, me ha permitido trabajar en proyectos de bajo nivel y entender mejor cómo funcionan las computadoras a nivel de hardware 🖥️.</p>
 
-Además, tengo un dominio intermedio de JavaScript 🌐, un lenguaje esencial para el desarrollo web. Mis proyectos de JavaScript en GitHub demuestran mi habilidad para crear aplicaciones web interactivas y dinámicas. Desde la manipulación del DOM hasta la gestión del estado en aplicaciones de una sola página, cada repositorio es un testimonio de mis ganas de seguir aprendiendo JavaScript.
+<p align="center">Además, tengo un dominio intermedio de JavaScript 🌐, un lenguaje esencial para el desarrollo web. Mis proyectos de JavaScript en GitHub demuestran mi habilidad para crear aplicaciones web interactivas y dinámicas. Desde la manipulación del DOM hasta la gestión del estado en aplicaciones de una sola página, cada repositorio es un testimonio de mis ganas de seguir aprendiendo JavaScript.</p>
 
-Todo esto combinado con el uso de Bash 🐚. Bash, el intérprete de comandos de Unix, es una herramienta poderosa para la automatización de tareas y la administración de sistemas. Mis scripts de Bash en GitHub muestran mi habilidad para escribir scripts eficientes y robustos que pueden automatizar tareas complejas y repetitivas.
+<p align="center">Todo esto combinado con el uso de Bash 🐚. Bash, el intérprete de comandos de Unix, es una herramienta poderosa para la automatización de tareas y la administración de sistemas. Mis scripts de Bash en GitHub muestran mi habilidad para escribir scripts eficientes y robustos que pueden automatizar tareas complejas y repetitivas.</p>
 
-Así que, ¿a qué estás esperando? ¡Adéntrate en el emocionante mundo de mi GitHub y descubre las maravillas de la tecnología hoy mismo! 🎉</p>
+<p align="center">Así que, ¿a qué estás esperando? ¡Adéntrate en el emocionante mundo de mi GitHub y descubre las maravillas de la tecnología hoy mismo! 🎉</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
