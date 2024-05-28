@@ -24,6 +24,8 @@ jesusqg42</a></h1>
 
 <p align="center">So what are you waiting for, dive into the exciting world of my GitHub and discover the wonders of technology today! 🎉</p>
 
+<h2>About Me:</h2>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
