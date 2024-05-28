@@ -38,8 +38,10 @@ jesusqg42</a></h1>
    <figure> <img src="https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4"></div>
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+   <h2>✍️ Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox">
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jesusqg42&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
