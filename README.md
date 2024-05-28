@@ -38,18 +38,17 @@ jesusqg42</a></h1>
   <h2>🔝 Top Contributed Repo</h2>
   <img src="https://github-contributor-stats.vercel.app/api?username=jesusqg42&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
 </div>
-
+<br> <br>
 <div align="center">
    <h2>✍️ Random Dev Quote</h2>
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox">
 </div>
-
+<br><br>
 <div align="center">
    <h2> 🏆 GitHub Trophies</h2>
    <figure> <img src="https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4"></div>
 </div>
-
-
+<br><br>
 <div align=center>
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
     <p>Loading</p>
