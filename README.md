@@ -1,6 +1,5 @@
  <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 jesusqg42</a></h1>
-[![](https://visitcount.itsvg.in/api?id=jesusqg42&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center">💫 Hello, world! I'm a passionate developer always looking to learn something new. I love solving complex problems and turning ideas into reality with code. When I'm not programming, you'll probably find me exploring nature or enjoying a good video game. Follow my programming adventures here on GitHub. 🚀</p>
 
 <div align="center">
