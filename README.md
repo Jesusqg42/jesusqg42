@@ -40,8 +40,8 @@ jesusqg42</a></h1>
 
 <div align="center">
    <h2>✍️ Random Dev Quote</h2>
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 </div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <div align="center">
   <h2>🔝 Top Contributed Repo</h2>
