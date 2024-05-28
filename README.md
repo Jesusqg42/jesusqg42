@@ -34,10 +34,7 @@ jesusqg42</a></h1>
 ✔ Fun fact : **I always try to learn something new** and then sleep until it is stored in the brain 😎.
 <br> <br>
 ## 🏆 GitHub Trophies
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jesusqg42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jesusqg42&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusqg42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
