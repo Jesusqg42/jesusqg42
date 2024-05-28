@@ -1,5 +1,5 @@
  <h1 align="center">💫 About Me:</h1>
-<p align="justify">👋 Hello, world! I'm jesusqg42, a passionate developer always looking to learn something new. I love solving complex problems and turning ideas into reality with code. When I'm not coding, you'll probably find me exploring nature or enjoying a good video game. Follow my coding adventures here on GitHub! 🚀</p>
+<p>👋 Hello, world! I'm jesusqg42, a passionate developer always looking to learn something new. I love solving complex problems and turning ideas into reality with code. When I'm not coding, you'll probably find me exploring nature or enjoying a good video game. Follow my coding adventures here on GitHub! 🚀</p>
 
 
 ## 🌐 Socials:
