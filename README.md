@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola, mundo! Soy jesusqg42, un apasionado desarrollador siempre en busca de aprender algo nuevo. Me encanta resolver problemas complejos y convertir ideas en realidad con código. Cuando no estoy programando, probablemente me encontrarás explorando la naturaleza o disfrutando de un buen videojuego. ¡Sigue mis aventuras de codificación aquí en GitHub! 🚀
+👋 Hello, world! I'm jesusqg42, a passionate developer always looking to learn something new. I love solving complex problems and turning ideas into reality with code. When I'm not coding, you'll probably find me exploring nature or enjoying a good video game. Follow my coding adventures here on GitHub! 🚀
 
 
 ## 🌐 Socials:
