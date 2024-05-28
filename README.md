@@ -47,7 +47,7 @@ jesusqg42</a></h1>
   <h2>🔝 Top Contributed Repo</h2>
   <img src="https://github-contributor-stats.vercel.app/api?username=jesusqg42&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
 </div>
-
+<br><br>
 <div align=center>
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
     <p>Loading</p>
