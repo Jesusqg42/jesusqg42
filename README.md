@@ -33,7 +33,7 @@ jesusqg42</a></h1>
 ✔ Ask me anything you want, If I am alive I will respond in a matter of seconds 😉. <br>
 ✔ Fun fact : **I always try to learn something new** and then sleep until it is stored in the brain 😎.
 <br> <br>
-## 🏆 GitHub Trophies
+<h1 align="center"> 🏆 GitHub Trophies</h1>
 ![](https://github-profile-trophy.vercel.app/?username=jesusqg42&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
