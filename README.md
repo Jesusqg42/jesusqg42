@@ -8,7 +8,7 @@ jesusqg42</a></h1>
 </div
 
 <div>
-    <h2 style="font-weight: 700" align="center">💻 Tech Stack 👨🏻‍💻</h2>
+    <h2 style="font-size: 8px" align="center">💻 Tech Stack 👨🏻‍💻</h2>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
