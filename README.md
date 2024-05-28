@@ -12,7 +12,7 @@ jesusqg42</a></h1>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,git,css,discord,figma,bash,cloudflare,github,html,js,linux,md,react,vscode,gmail,npm,vite,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,js,css,html,git,discord,figma,bash,cloudflare,github,linux,md,react,vscode,gmail,npm,vite,windows&perline=14" />
   </a>
 </p>
 
